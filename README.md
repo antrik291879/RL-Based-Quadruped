@@ -1,7 +1,7 @@
 Multi-Terrain Adaptation of quadruped through Reinforcement Learning
 ===
 
-![image](https://hackmd.io/_uploads/r1kzEGu6bl.png)
+<img width="896" height="479" alt="image" src="https://github.com/user-attachments/assets/144392b5-ba5e-42cb-bcf4-912cbefa8f46" />
 
 In Today's era quadruped. are no londer just pre‑programmed gaits or fragile dynamic models.The are Learning how to navigate the real world with an agility once reserved for animals.Breakthrough in deep reinforcement learning, massive parallel simulation.
 
@@ -177,11 +177,14 @@ The observation vector tells the robot everything it can feel about itself and t
 
 Results
 ===
-![image](https://hackmd.io/_uploads/HkU4QXO6Wg.png)
+<img width="1331" height="679" alt="image" src="https://github.com/user-attachments/assets/558ea59b-a45c-40aa-b2d3-1c0a47ade25e" />
 
 
-![image](https://hackmd.io/_uploads/SyID6XdT-x.png)
-![image](https://hackmd.io/_uploads/HkXdamdT-l.png)
+
+<img width="888" height="476" alt="image" src="https://github.com/user-attachments/assets/1042feb4-c370-482c-903f-49e41ffee8a6" />
+
+<img width="902" height="507" alt="image" src="https://github.com/user-attachments/assets/9cdafdb7-ad71-47a8-ac9e-aaeaff53f0ca" />
+
 
 
 
